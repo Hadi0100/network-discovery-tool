@@ -1,5 +1,5 @@
 # network_scan.ps1
-# Author: Your Name
+# Author: Hadi Abdelaal
 # Description: Discover live hosts on local network
 
 Write-Host "Starting Network Discovery..." -ForegroundColor Cyan
