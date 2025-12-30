@@ -1,5 +1,5 @@
 # port_scanner.py
-# Author: Your Name
+# Author: Hadi Abdelaal
 # Description: Simple TCP port scanner
 
 import socket
